@@ -2,7 +2,6 @@ var heroi=String(prompt("Qual o seu nome?"));
     var xp_heroi=parseFloat(prompt("Quantos XP já coletou?"));
     var nivel;
     
-
 if(xp_heroi < 1000){
     nivel = "Ferro" ;
 }
